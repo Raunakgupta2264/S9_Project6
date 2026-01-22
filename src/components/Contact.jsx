@@ -29,10 +29,10 @@ function Contact() {
 
                     <div className="info-section">
                          <p>Message {location.state?.course}</p>
-                        <p><span>ID Number:</span> 2500030162</p>
-                        <p><span>Name:</span> Dheeraj Mani Kumar</p>
-                        <p><span>Phone:</span> 9347457540</p>
-                        <p><span>Email:</span> dheeraj@gmail.com</p>
+                        <p><span>ID Number:</span> 2500031322</p>
+                        <p><span>Name:</span> Raunak Gupta</p>
+                        <p><span>Phone:</span>773950XXXX</p>
+                        <p><span>Email:</span>raunakguptann@gmail.com</p>
                         <p><span>Address:</span> Vijayawada , Andhra Pradesh</p>
                         <p><span>Department:</span> CSE</p>
                         <p><span>College:</span>KL UNIVERSITY</p>
